@@ -1,0 +1,16 @@
+.map-section {
+  height: 65vh !important;
+  background-color: hotpink;
+  padding: 4em 0 !important;
+}
+
+.map-section img {
+  width: 470px !important;
+  border-radius: 5px;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+
+.textee {
+  font-size: 20px;
+}
